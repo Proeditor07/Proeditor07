@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-thosar-660672205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-thosar-660672205/" height="30" width="40" /></a>
-<a href="https://instagram.com/aditya_thosar_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_thosar_07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kripto edits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kripto edits" height="30" width="40" /></a>
+<a href="https://www.instagram.com/adityathosar07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_thosar_07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adityathosar/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aditya Thosar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityathosar86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityathosar86" height="30" width="40" /></a>
 </p>
 
