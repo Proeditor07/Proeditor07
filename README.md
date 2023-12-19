@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [adityathosar.tk](adityathosar.tk)
+- 👨‍💻 All of my projects are available at [adityathosar.tk](https://proeditor07.github.io/TestPortfolio/) 
 
 - 💬 Ask me about **anything**
 
